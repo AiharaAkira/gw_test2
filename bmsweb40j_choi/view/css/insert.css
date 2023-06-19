@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+#i_menu_tbl {
+	margin: auto;
+	width: 850px
+}
+
+#i_menu_hr {
+	text-align: center;
+	height: 2px;
+	background-color: black;
+}
+
+.i_menu_td1 {
+	text-align: center;
+	width: 80px;
+}
+
+#i_menu_title {
+	text-align: center;
+	width: 508px;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+.i_menu_td2 {
+	width: 80px;
+}
+
+#i_div {
+	text-align: center;
+	margin-bottom: 200px;
+	padding: 0 auto;
+}
+
+#i_tbl {
+	margin-left: 37%;
+	margin-bottom: 5%;
+	margin-top: 7%;
+}
+
+.i_td {
+	background-color: #33CCFF;
+}
+
+#i_btn {
+	border: 1;
+}

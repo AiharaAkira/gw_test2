@@ -1,0 +1,75 @@
+@charset "UTF-8";
+
+#u_menu_tbl {
+	margin: auto;
+	width: 850px;
+}
+
+.u_menu_td {
+	text-align: center;
+	width: 80px;
+}
+
+.u_menu_td2 {
+	width: 80px;
+}
+
+#u_menu_title {
+	font-weight: bold; text-align : center;
+	width: 508px;
+	font-size: 24px;
+	text-align: center;
+}
+
+#u_menu_hr {
+	text-align: center;
+	height: 2px;
+	background-color: black;
+
+	margin-bottom: 5%;
+}
+
+#u_tbl{
+
+	margin: auto;
+	text-align: center;
+
+}
+
+.u_td1{
+
+	background-color: #0066CC;
+	width: 100px;
+
+}
+
+.u_td2{
+	background-color: #33CCFF;
+	width: 100px;
+
+}
+
+#u_th{
+	text-align: right;
+	color: brown;
+	font-weight: bold;
+
+}
+
+#u_th2{
+	text-align: center;
+	color: brown;
+	font-weight: bold;
+}
+
+#u_div{
+
+	margin: auto;
+	margin-top:5%;
+	margin-bottom:10%;
+	text-align: center;
+}
+
+.u_td3{
+	padding-left: 30px;
+}

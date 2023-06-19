@@ -1,0 +1,65 @@
+@charset "UTF-8";
+
+#bc_menu_tbl {
+	margin: auto;
+	width: 850px;
+}
+
+.bc_menu_td {
+	text-align: center;
+	width: 80px;
+}
+
+#bc_menu_title {
+	text-align: center;
+	width: 508px;
+	font-size: 24px;
+}
+
+.bc_menu_td2{
+	width: 80px;
+}
+
+#bc_menu_hr{
+
+	border-top: 3px solid black;
+
+}
+
+
+.bc_msg{
+	margin-left: 15%;
+}
+
+
+#bc_tbl{
+	margin-top:10%;
+	width: 88%;
+}
+
+.bc_th{
+
+	background-color: #6666ff;
+	width: 200px;
+}
+
+.bc_td{
+
+	text-align: center;
+	width: 200px;
+}
+
+#bc_sum_div{
+	text-align:center;
+	margin-bottom: 30%;
+}
+
+#bc_sum{
+	width:100px;
+	background-color:#6666ff;
+	text-align:center;
+	margin:0 auto;
+	margin-right:15px;
+	display: inline-block;
+
+}

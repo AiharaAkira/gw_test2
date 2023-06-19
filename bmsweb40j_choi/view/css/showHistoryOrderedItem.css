@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+#iid_menu_tbl {
+	margin: auto;
+	width: 850px;
+}
+
+.iid_menu_td {
+	text-align: center;
+	width: 80px;
+}
+
+#iid_menu_title {
+	text-align: center;
+	width: 508px;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+#iid_menu_hr {
+	text-align: center;
+	height: 2px;
+	background-color: black;
+	margin-bottom: 5%;
+}
+
+#iid_msg {
+	text-align: center;
+}
+
+#iid_tbl {
+	margin: auto;
+	margin-bottom: 20%;
+}
+
+.iid_th {
+	background-color: #6666ff;
+	width: 200px;
+}
+
+.iid_td {
+	text-align: center;
+	width: 200px;
+}

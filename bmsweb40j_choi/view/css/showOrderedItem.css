@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+#soi_menu_tbl {
+	margin: auto;
+	width: 850px;
+}
+
+.soi_menu_td1 {
+	width: 80px;
+}
+
+#soi_menu_title {
+	text-align: center;
+	width: 508px;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+#soi_menu_hr{
+
+	border-top: 3px solid black;
+	margin-bottom: 6%;
+}
+
+#soi_tbl {
+	margin: auto;
+	margin-bottom: 20%;
+}
+
+.soi_th {
+	background-color: #6666ff;
+	width: 200px;
+}
+
+.soi_td {
+	text-align: center;
+	width: 200px;
+}
