@@ -1,0 +1,79 @@
+@charset "UTF-8";
+
+#sc_menu_tbl {
+	margin: auto;
+	width: 850px;
+	padding-top: 3%;
+}
+
+.sc_menu_td {
+	text-align: center;
+	width: 80px;
+}
+
+.sc_menu_title {
+	text-align: center;
+	width: 508px;
+	font-size: 24px;
+}
+
+.sc_menu_td2 {
+	width: 80px;
+}
+
+.sc_th {
+	background-color: #6666ff;
+	width: 200px;
+}
+
+#sc_hr {
+	border-top: 3px solid black;
+	text-align: center;
+	margin-top: 3%;
+}
+
+#sc_tbl {
+	margin: auto;
+	width: 100%;
+	text-align: center;
+}
+
+.sc_td {
+	text-align: center;
+	width: 200px;
+}
+
+.sc_td2 {
+	text-align: center;
+	width: 200px;
+}
+
+#sc_last_hr {
+	border-top: 1px dotted black;
+	text-align: center;
+	margin-top: 5%;
+	width: 90%;
+	margin-bottom: 2%;
+}
+
+#sc_sum_div{
+
+text-align: center;
+}
+
+#sc_sum{
+display:inline-block;
+background-color: #6666ff;
+width: 100px;
+margin: 0 auto;
+margin-right: 10px;
+	}
+
+
+#sc_btn{
+
+	width:100px;
+	margin-top:10%;
+	margin-left: 70%;
+	margin-bottom: 15%;
+}

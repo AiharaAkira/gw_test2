@@ -1,0 +1,64 @@
+@charset "UTF-8";
+
+#d_menu_tbl {
+	margin: auto;
+}
+
+.d_menu_td {
+	width: 100px;
+}
+
+#d_menu_title {
+	text-align: center;
+	width: 500px;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+.d_menu_td {
+	width: 80px;
+}
+
+#d_menu_hr {
+	text-align: center;
+	height: 2px;
+	background-color: black;
+}
+
+#d_div {
+	margin-bottom: 350px;
+	padding: 0 auto;
+}
+
+#d_tbl{
+	margin: 0 auto;
+
+
+
+}
+
+
+.d_td1{
+
+	width: 100px;
+	background-color: #0066CC;
+	padding-left: 10px;
+
+}
+
+
+.d_td2{
+
+	width: 100px;
+	background-color: #33CCFF;
+	padding-left: 10px;
+
+}
+
+.d_btn{
+	width: 60%;
+	margin-left: 10px
+
+}
+
+

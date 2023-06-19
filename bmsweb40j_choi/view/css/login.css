@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+#l_table{
+	margin-top:10%;
+	margin-bottom:20%;
+	text-align: center;
+}
+
+#l_table form table{
+	margin:0 auto;
+	margin-bottom:3%;
+	text-align: center;
+}
+
+.l_td{
+	background-color: #33CCFF;
+}
+
+#l_btn{
+	padding-top: 10%;
+	background-color: white;
+}
+
+#l_hr{
+	border-top: 3px solid black;
+	margin-top: 5%;
+
+}

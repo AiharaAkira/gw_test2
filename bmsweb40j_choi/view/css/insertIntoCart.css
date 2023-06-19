@@ -1,0 +1,57 @@
+@charset "UTF-8";
+
+#iic_menu_tbl {
+	margin: auto;
+	width: 850px;
+}
+
+.iic_menu_title {
+	text-align: center;
+	width: 508px;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+.iic_menu_td {
+	text-align: center;
+	width: 80px
+}
+
+.iic_menu_td2 {
+	width: 80px;
+}
+
+#iic_menu_hr {
+	text-align: center;
+	height: 2px;
+	background-color: black;
+}
+
+#iic_msg{
+
+	text-align: center;
+}
+
+#iic_tbl{
+
+	margin: auto;
+}
+
+.iic_td1{
+
+	background-color: #0066CC;
+	width: 100px;
+	text-align: center;
+}
+
+.iic_td2{
+
+	width: 100px;
+	padding-left:10px;
+}
+
+#iic_btn{
+	padding-top:10%;
+	padding-bottom:150%;
+	text-align: center;
+}
